@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1065603825509",
+    "firebase_url": "https://loja-flu.firebaseio.com",
+    "project_id": "loja-flu",
+    "storage_bucket": "loja-flu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065603825509:android:2bbc0c026a15b05d5a2b8c",
+        "android_client_info": {
+          "package_name": "br.com.nolasco.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065603825509-6638ru9d377icsmcog2v80vr7sn0iks8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrAMR0MkRPewGEprYkZWHLSwRN7OBiKhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065603825509-6638ru9d377icsmcog2v80vr7sn0iks8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
